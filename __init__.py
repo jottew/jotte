@@ -1,6 +1,6 @@
 import random, string
 
-obliqueinclinedslantedskewslopingsuspicious="".join                                                                             (
+obliqueinclinedslantedskewslopingsuspicious="".join(
     
     
     
@@ -14,17 +14,7 @@ obliqueinclinedslantedskewslopingsuspicious="".join                             
     
     
     
-    random
-    
-    
-    
-    
-    
-    
-    
-    
-    
-                                                                                                        .
+    random.
     
     
     
@@ -50,28 +40,7 @@ obliqueinclinedslantedskewslopingsuspicious="".join                             
     
     
     
-                                                                    .ascii_letters
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                                                                                                                                                                                                                                            ,
+                                                                    .ascii_letters,
                 
                 
                 
@@ -83,252 +52,7 @@ obliqueinclinedslantedskewslopingsuspicious="".join                             
                 
                 k=42069 )) # very the funny
 
-amogussusosuzsissomGFIOASJNOADSN = [
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-                                                                                                                                '啊',
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                            '吧',
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                '从',                                                                                                           '的',
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            '额',
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                                                                                        '发',
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                '给',
-                                                                
-                                                                
-                                                                
-                        '和', 
-                        
-                        
-                        
-                        
-                        
-                        
-                                                                                             '就',
-                                                                                            
-                                                                                            
-                                                                                            
-                                                                                            
-                                                                                            
-                                                                                            
-                                                                                            
-                                                                                            
-                                                    '有',
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                                                                    '哦',
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                    '了',                                           
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                                                                                    '吗',
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                            '你',
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                                                                                    
-                                                    '哦',
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                        '怕', 
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    '去',
-                                                                                                                                                                                                                        '人',                                                                               
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                                                                                                 '身',
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                                                                                 
-                                                                        '体', 
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                                                                                                                            '我', 
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                '下', 
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        '在',                                                                                       
-                                                                                                                            '有'
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                ]
+amogussusosuzsissomGFIOASJNOADSN = ['啊', '吧', '从', '的', '额', '发', '给', '和', 'i', '就', '有', '哦', '了', '吗', '你', '哦', '怕', '去', '人', '身', '体', '我', '下', '在', '有']
 
 for x in __builtins__["range"](int(
     
@@ -415,100 +139,7 @@ string.
 
 
 
-                                                                ,345345345,
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                                                             int
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                                                                            (
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                        """
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    420
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                                                                                    """
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                                                            )
+                                                                ,345345345, 420
                                                                 
                                                                 
                                                                 
@@ -627,65 +258,7 @@ string.
 
 
 
-                                                                                                    k
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                    =__builtins__
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    .
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                    
-                                                                                                                                                                                __getitem__
+                                                                                                    k=__builtins__.__getitem__
                                                                                                     
                                                                                                     
                                                                                                     
@@ -728,21 +301,7 @@ string.
 
 
                                                                                                                                                                 "random"
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-)
+                                                                                                )
 
 
 

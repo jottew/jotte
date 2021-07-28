@@ -1,0 +1,6 @@
+
+*.gz
+jotte.egg-info/dependency_links.txt
+jotte.egg-info/SOURCES.txt
+jotte.egg-info/PKG-INFO
+jotte.egg-info/top_level.txt
